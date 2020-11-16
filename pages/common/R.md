@@ -1,4 +1,4 @@
-# r
+# R
 
 > R language interpreter.
 > More information: <https://www.r-project.org>.
